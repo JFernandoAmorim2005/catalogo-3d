@@ -9,9 +9,8 @@
  * <script src="js/analytics-sentry.js"></script>
  */
 
-// Sentry initialization (replace with actual DSN from https://sentry.io/settings/account/projects/)
-// TODO: Criar conta em https://sentry.io e substitua por valor real
-const SENTRY_DSN = 'https://REPLACE_WITH_REAL_DSN@o0000.ingest.sentry.io/0000000';
+// Sentry initialization (DSN from Catálogo 3D Sentry project)
+const SENTRY_DSN = 'https://cc7dae81ab8af27f29299c2a78f643e9@o4511457648771072.ingest.de.sentry.io/4511457719550032';
 
 // Initialize Sentry (if DSN is configured)
 if (SENTRY_DSN && !SENTRY_DSN.includes('REPLACE_WITH')) {
