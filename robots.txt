@@ -1,0 +1,13 @@
+# Robots.txt for Catalogo 3D JFA
+User-agent: *
+Allow: /
+Disallow: /.well-known/
+Disallow: /.github/
+Disallow: /scripts/
+Disallow: /node_modules/
+
+# Sitemap
+Sitemap: https://catalogo-3d.pages.dev/sitemap.xml
+
+# Crawl delay (milliseconds)
+Crawl-delay: 1

@@ -1,0 +1,2398 @@
+{
+  "stats": {
+    "total_images": 265,
+    "tier_2d": 265,
+    "total_products": 268,
+    "categories": 14,
+    "tier_procedural": 3
+  },
+  "version": "0.1",
+  "products": {
+    "cais6": {
+      "asset_path": "img/prot-solar/cais6.jpg",
+      "name_display": "Cais6",
+      "filename": "cais6.jpg",
+      "source_image": "cais6.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "portas2": {
+      "asset_path": "img/fenolicos/portas2.jpg",
+      "name_display": "Portas2",
+      "filename": "portas2.jpg",
+      "source_image": "portas2.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "maxresdefault": {
+      "asset_path": "img/automatismos/maxresdefault.jpg",
+      "name_display": "Maxresdefault",
+      "filename": "maxresdefault.jpg",
+      "source_image": "maxresdefault.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "_dsc5566": {
+      "asset_path": "img/portas/_DSC5566.JPG",
+      "name_display": " DSC5566",
+      "filename": "_DSC5566.JPG",
+      "source_image": "_DSC5566.JPG",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "cabines4": {
+      "asset_path": "img/fenolicos/Cabines4.jpg",
+      "name_display": "Cabines4",
+      "filename": "Cabines4.jpg",
+      "source_image": "Cabines4.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "12341484_1033897126661425_8445929924729042002_n": {
+      "asset_path": "img/portas/12341484_1033897126661425_8445929924729042002_n.jpg",
+      "name_display": "12341484 1033897126661425 8445929924729042002 N",
+      "filename": "12341484_1033897126661425_8445929924729042002_n.jpg",
+      "source_image": "12341484_1033897126661425_8445929924729042002_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "33298577_1858958867488576_5077207735410360320_n": {
+      "asset_path": "img/portas/33298577_1858958867488576_5077207735410360320_n.jpg",
+      "name_display": "33298577 1858958867488576 5077207735410360320 N",
+      "filename": "33298577_1858958867488576_5077207735410360320_n.jpg",
+      "source_image": "33298577_1858958867488576_5077207735410360320_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "15871977_1338337612884040_4974430408772306083_n": {
+      "asset_path": "img/portas/15871977_1338337612884040_4974430408772306083_n.jpg",
+      "name_display": "15871977 1338337612884040 4974430408772306083 N",
+      "filename": "15871977_1338337612884040_4974430408772306083_n.jpg",
+      "source_image": "15871977_1338337612884040_4974430408772306083_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "18.pos": {
+      "asset_path": "img/portas/18.pos.jpg",
+      "name_display": "18.Pos",
+      "filename": "18.pos.jpg",
+      "source_image": "18.pos.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "pergola-p-150---dupla-iv": {
+      "asset_path": "img/pergola/Pergola P-150 - Dupla IV.jpg",
+      "name_display": "Pergola P 150   Dupla IV",
+      "filename": "Pergola P-150 - Dupla IV.jpg",
+      "source_image": "Pergola P-150 - Dupla IV.jpg",
+      "tier": "2d",
+      "category_display": "12 - Pérgola",
+      "category": "pergola"
+    },
+    "32-home_default": {
+      "asset_path": "img/automatismos/32-home_default.jpg",
+      "name_display": "32 Home Default",
+      "filename": "32-home_default.jpg",
+      "source_image": "32-home_default.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "porta-segurança-duplo-batente": {
+      "asset_path": "img/portas/Porta segurança duplo batente.jpg",
+      "name_display": "Porta Segurança Duplo Batente",
+      "filename": "Porta segurança duplo batente.jpg",
+      "source_image": "Porta segurança duplo batente.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "19.pos-(1)": {
+      "asset_path": "img/portas/19.pos (1).jpg",
+      "name_display": "19.Pos (1)",
+      "filename": "19.pos (1).jpg",
+      "source_image": "19.pos (1).jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "mobiliario1": {
+      "asset_path": "img/fenolicos/mobiliario1.jpg",
+      "name_display": "Mobiliario1",
+      "filename": "mobiliario1.jpg",
+      "source_image": "mobiliario1.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "pergola-biomat-procedural": {
+      "asset_path": "showcases/pergola-biomat-procedural.html",
+      "name_display": "Pérgola Bioclimática (Interactivo)",
+      "filename": null,
+      "source_image": null,
+      "tier": "procedural",
+      "category_display": "12 - Pérgola",
+      "category": "pergola"
+    },
+    "sistema-de-parque-estacionamento": {
+      "asset_path": "img/mobiliario/Sistema de parque estacionamento.jpg",
+      "name_display": "Sistema De Parque Estacionamento",
+      "filename": "Sistema de parque estacionamento.jpg",
+      "source_image": "Sistema de parque estacionamento.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "pergola-p-150---dupla-iii": {
+      "asset_path": "img/pergola/Pergola P-150 - Dupla III.jpg",
+      "name_display": "Pergola P 150   Dupla III",
+      "filename": "Pergola P-150 - Dupla III.jpg",
+      "source_image": "Pergola P-150 - Dupla III.jpg",
+      "tier": "2d",
+      "category_display": "12 - Pérgola",
+      "category": "pergola"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,8": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,8.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,8",
+      "filename": "Portas automáticas correr e de batente herméticas,8.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,8.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "dmflex-fenolicos-mobiliario-galeria1": {
+      "asset_path": "img/fenolicos/dmflex-fenolicos-mobiliario-galeria1.jpg",
+      "name_display": "Dmflex Fenolicos Mobiliario Galeria1",
+      "filename": "dmflex-fenolicos-mobiliario-galeria1.jpg",
+      "source_image": "dmflex-fenolicos-mobiliario-galeria1.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "foto": {
+      "asset_path": "img/mobiliario/Foto.jpg",
+      "name_display": "Foto",
+      "filename": "Foto.jpg",
+      "source_image": "Foto.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "calha-simples1": {
+      "asset_path": "img/cortinados/Calha Simples1.jpg",
+      "name_display": "Calha Simples1",
+      "filename": "Calha Simples1.jpg",
+      "source_image": "Calha Simples1.jpg",
+      "tier": "2d",
+      "category_display": "04 - Cortinados",
+      "category": "cortinados"
+    },
+    "abrigos3": {
+      "asset_path": "img/prot-solar/abrigos3.jpg",
+      "name_display": "Abrigos3",
+      "filename": "abrigos3.jpg",
+      "source_image": "abrigos3.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "outubro---fenolicos": {
+      "asset_path": "img/fenolicos/Outubro - Fenolicos.jpg",
+      "name_display": "Outubro   Fenolicos",
+      "filename": "Outubro - Fenolicos.jpg",
+      "source_image": "Outubro - Fenolicos.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "12314058_1033897146661423_1898337245595182954_n": {
+      "asset_path": "img/portas/12314058_1033897146661423_1898337245595182954_n.jpg",
+      "name_display": "12314058 1033897146661423 1898337245595182954 N",
+      "filename": "12314058_1033897146661423_1898337245595182954_n.jpg",
+      "source_image": "12314058_1033897146661423_1898337245595182954_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "sistemas-de-carga4": {
+      "asset_path": "img/prot-solar/sistemas de carga4.jpg",
+      "name_display": "Sistemas De Carga4",
+      "filename": "sistemas de carga4.jpg",
+      "source_image": "sistemas de carga4.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "sistemas-de-carga7": {
+      "asset_path": "img/prot-solar/sistemas de carga7.jpg",
+      "name_display": "Sistemas De Carga7",
+      "filename": "sistemas de carga7.jpg",
+      "source_image": "sistemas de carga7.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "sistemas-de-carga": {
+      "asset_path": "img/prot-solar/sistemas de carga.jpg",
+      "name_display": "Sistemas De Carga",
+      "filename": "sistemas de carga.jpg",
+      "source_image": "sistemas de carga.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "s-l300": {
+      "asset_path": "img/automatismos/s-l300.jpg",
+      "name_display": "S L300",
+      "filename": "s-l300.jpg",
+      "source_image": "s-l300.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_121528": {
+      "asset_path": "img/tapetes/IMG_20190305_121528.jpg",
+      "name_display": "IMG 20190305 121528",
+      "filename": "IMG_20190305_121528.jpg",
+      "source_image": "IMG_20190305_121528.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "img_20190305_125642": {
+      "asset_path": "img/tapetes/IMG_20190305_125642.jpg",
+      "name_display": "IMG 20190305 125642",
+      "filename": "IMG_20190305_125642.jpg",
+      "source_image": "IMG_20190305_125642.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "52_1441652924582c8c7273fe0": {
+      "asset_path": "img/mobiliario/52_1441652924582c8c7273fe0.jpg",
+      "name_display": "52 1441652924582C8c7273fe0",
+      "filename": "52_1441652924582c8c7273fe0.jpg",
+      "source_image": "52_1441652924582c8c7273fe0.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "12193468_1018139828237155_8171971170112161183_n": {
+      "asset_path": "img/portas/12193468_1018139828237155_8171971170112161183_n.jpg",
+      "name_display": "12193468 1018139828237155 8171971170112161183 N",
+      "filename": "12193468_1018139828237155_8171971170112161183_n.jpg",
+      "source_image": "12193468_1018139828237155_8171971170112161183_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "mqdefault": {
+      "asset_path": "img/automatismos/mqdefault.jpg",
+      "name_display": "Mqdefault",
+      "filename": "mqdefault.jpg",
+      "source_image": "mqdefault.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "portas10": {
+      "asset_path": "img/fenolicos/portas10.jpg",
+      "name_display": "Portas10",
+      "filename": "portas10.jpg",
+      "source_image": "portas10.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "roda2": {
+      "asset_path": "img/logos/Roda2.jpg",
+      "name_display": "Roda2",
+      "filename": "Roda2.jpg",
+      "source_image": "Roda2.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "1320652": {
+      "asset_path": "img/automatismos/1320652.jpg",
+      "name_display": "1320652",
+      "filename": "1320652.jpg",
+      "source_image": "1320652.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "cabines5": {
+      "asset_path": "img/fenolicos/Cabines5.jpg",
+      "name_display": "Cabines5",
+      "filename": "Cabines5.jpg",
+      "source_image": "Cabines5.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_130601": {
+      "asset_path": "img/mobiliario/IMG_20190305_130601.jpg",
+      "name_display": "IMG 20190305 130601",
+      "filename": "IMG_20190305_130601.jpg",
+      "source_image": "IMG_20190305_130601.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "dmflex-fenolicos-cabines-galeria6": {
+      "asset_path": "img/fenolicos/dmflex-fenolicos-cabines-galeria6.jpg",
+      "name_display": "Dmflex Fenolicos Cabines Galeria6",
+      "filename": "dmflex-fenolicos-cabines-galeria6.jpg",
+      "source_image": "dmflex-fenolicos-cabines-galeria6.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "dmflex-fenolicos-cacifos-galeria1": {
+      "asset_path": "img/fenolicos/dmflex-fenolicos-cacifos-galeria1.jpg",
+      "name_display": "Dmflex Fenolicos Cacifos Galeria1",
+      "filename": "dmflex-fenolicos-cacifos-galeria1.jpg",
+      "source_image": "dmflex-fenolicos-cacifos-galeria1.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "cais5": {
+      "asset_path": "img/prot-solar/cais5.jpg",
+      "name_display": "Cais5",
+      "filename": "cais5.jpg",
+      "source_image": "cais5.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "porta-segurança-dierre-2": {
+      "asset_path": "img/portas/Porta segurança DIERRE 2.jpg",
+      "name_display": "Porta Segurança DIERRE 2",
+      "filename": "Porta segurança DIERRE 2.jpg",
+      "source_image": "Porta segurança DIERRE 2.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "dsc01659": {
+      "asset_path": "img/fenolicos/DSC01659.JPG",
+      "name_display": "DSC01659",
+      "filename": "DSC01659.JPG",
+      "source_image": "DSC01659.JPG",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "cafifos6": {
+      "asset_path": "img/fenolicos/cafifos6.jpg",
+      "name_display": "Cafifos6",
+      "filename": "cafifos6.jpg",
+      "source_image": "cafifos6.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "45765382_2112736452110815_6778083813340741632_n-(2)": {
+      "asset_path": "img/mobiliario/45765382_2112736452110815_6778083813340741632_n (2).jpg",
+      "name_display": "45765382 2112736452110815 6778083813340741632 N (2)",
+      "filename": "45765382_2112736452110815_6778083813340741632_n (2).jpg",
+      "source_image": "45765382_2112736452110815_6778083813340741632_n (2).jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "portas": {
+      "asset_path": "img/fenolicos/portas.jpg",
+      "name_display": "Portas",
+      "filename": "portas.jpg",
+      "source_image": "portas.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "27655084_1745288618855602_313092333184097739_n": {
+      "asset_path": "img/portas/27655084_1745288618855602_313092333184097739_n.jpg",
+      "name_display": "27655084 1745288618855602 313092333184097739 N",
+      "filename": "27655084_1745288618855602_313092333184097739_n.jpg",
+      "source_image": "27655084_1745288618855602_313092333184097739_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "mosq-plissada_3": {
+      "asset_path": "img/redes-mosquiteiras/mosq plissada_3.jpg",
+      "name_display": "Mosq Plissada 3",
+      "filename": "mosq plissada_3.jpg",
+      "source_image": "mosq plissada_3.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "cais": {
+      "asset_path": "img/prot-solar/cais.jpg",
+      "name_display": "Cais",
+      "filename": "cais.jpg",
+      "source_image": "cais.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,3": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,3.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,3",
+      "filename": "Portas automáticas correr e de batente herméticas,3.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,3.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "motor-porton-corredizo-automatismos-nice-basculante-batiente-d_nq_np_800211-mlu20488661904_112015-f": {
+      "asset_path": "img/automatismos/motor-porton-corredizo-automatismos-nice-basculante-batiente-D_NQ_NP_800211-MLU20488661904_112015-F.jpg",
+      "name_display": "Motor Porton Corredizo Automatismos Nice Basculante Batiente D NQ NP 800211 MLU20488661904 112015 F",
+      "filename": "motor-porton-corredizo-automatismos-nice-basculante-batiente-D_NQ_NP_800211-MLU20488661904_112015-F.jpg",
+      "source_image": "motor-porton-corredizo-automatismos-nice-basculante-batiente-D_NQ_NP_800211-MLU20488661904_112015-F.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_121048": {
+      "asset_path": "img/tapetes/IMG_20190305_121048.jpg",
+      "name_display": "IMG 20190305 121048",
+      "filename": "IMG_20190305_121048.jpg",
+      "source_image": "IMG_20190305_121048.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "foto-2": {
+      "asset_path": "img/mobiliario/Foto 2.jpg",
+      "name_display": "Foto 2",
+      "filename": "Foto 2.jpg",
+      "source_image": "Foto 2.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "111-500x500": {
+      "asset_path": "img/redes-mosquiteiras/111-500x500.jpg",
+      "name_display": "111 500X500",
+      "filename": "111-500x500.jpg",
+      "source_image": "111-500x500.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "29572266_1799712846746512_8719108528074110530_n": {
+      "asset_path": "img/automatismos/29572266_1799712846746512_8719108528074110530_n.jpg",
+      "name_display": "29572266 1799712846746512 8719108528074110530 N",
+      "filename": "29572266_1799712846746512_8719108528074110530_n.jpg",
+      "source_image": "29572266_1799712846746512_8719108528074110530_n.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "molaa": {
+      "asset_path": "img/redes-mosquiteiras/molaa.jpg",
+      "name_display": "Molaa",
+      "filename": "molaa.jpg",
+      "source_image": "molaa.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "cabines8": {
+      "asset_path": "img/fenolicos/Cabines8.jpg",
+      "name_display": "Cabines8",
+      "filename": "Cabines8.jpg",
+      "source_image": "Cabines8.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "fechadura-tesa-donna": {
+      "asset_path": "img/mobiliario/Fechadura Tesa Donna.jpg",
+      "name_display": "Fechadura Tesa Donna",
+      "filename": "Fechadura Tesa Donna.jpg",
+      "source_image": "Fechadura Tesa Donna.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "27540833_1745288622188935_1390198959463831246_n": {
+      "asset_path": "img/portas/27540833_1745288622188935_1390198959463831246_n.jpg",
+      "name_display": "27540833 1745288622188935 1390198959463831246 N",
+      "filename": "27540833_1745288622188935_1390198959463831246_n.jpg",
+      "source_image": "27540833_1745288622188935_1390198959463831246_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "img_20190305_121704": {
+      "asset_path": "img/tapetes/IMG_20190305_121704.jpg",
+      "name_display": "IMG 20190305 121704",
+      "filename": "IMG_20190305_121704.jpg",
+      "source_image": "IMG_20190305_121704.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "ae294bb3-c9c9-4380-bac9-3fd686ad8d57": {
+      "asset_path": "img/automatismos/ae294bb3-c9c9-4380-bac9-3fd686ad8d57.jpg",
+      "name_display": "Ae294bb3 C9c9 4380 Bac9 3Fd686ad8d57",
+      "filename": "ae294bb3-c9c9-4380-bac9-3fd686ad8d57.jpg",
+      "source_image": "ae294bb3-c9c9-4380-bac9-3fd686ad8d57.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "29542122_1794620693922394_550593808723738823_n": {
+      "asset_path": "img/portas/29542122_1794620693922394_550593808723738823_n.jpg",
+      "name_display": "29542122 1794620693922394 550593808723738823 N",
+      "filename": "29542122_1794620693922394_550593808723738823_n.jpg",
+      "source_image": "29542122_1794620693922394_550593808723738823_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "jfa-logo-mail-site": {
+      "asset_path": "img/logos/JFA-logo-mail-site.png",
+      "name_display": "JFA Logo Mail Site",
+      "filename": "JFA-logo-mail-site.png",
+      "source_image": "JFA-logo-mail-site.png",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "mola": {
+      "asset_path": "img/redes-mosquiteiras/mola.jpg",
+      "name_display": "Mola",
+      "filename": "mola.jpg",
+      "source_image": "mola.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "img_20190305_121921": {
+      "asset_path": "img/tapetes/IMG_20190305_121921.jpg",
+      "name_display": "IMG 20190305 121921",
+      "filename": "IMG_20190305_121921.jpg",
+      "source_image": "IMG_20190305_121921.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "1": {
+      "asset_path": "img/automatismos/1.jpg",
+      "name_display": "1",
+      "filename": "1.jpg",
+      "source_image": "1.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_121123": {
+      "asset_path": "img/tapetes/IMG_20190305_121123.jpg",
+      "name_display": "IMG 20190305 121123",
+      "filename": "IMG_20190305_121123.jpg",
+      "source_image": "IMG_20190305_121123.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "nice---jfa": {
+      "asset_path": "img/automatismos/nice - jfa.jpg",
+      "name_display": "Nice   Jfa",
+      "filename": "nice - jfa.jpg",
+      "source_image": "nice - jfa.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "tapete-aluminio-tubular-estriado": {
+      "asset_path": "img/tapetes/Tapete Aluminio Tubular Estriado.jpg",
+      "name_display": "Tapete Aluminio Tubular Estriado",
+      "filename": "Tapete Aluminio Tubular Estriado.jpg",
+      "source_image": "Tapete Aluminio Tubular Estriado.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "armário-em-painéis-fenólicos": {
+      "asset_path": "img/fenolicos/Armário em painéis fenólicos.jpg",
+      "name_display": "Armário Em Painéis Fenólicos",
+      "filename": "Armário em painéis fenólicos.jpg",
+      "source_image": "Armário em painéis fenólicos.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "fechadura-tesa-smartair": {
+      "asset_path": "img/mobiliario/Fechadura Tesa SmartAir.jpg",
+      "name_display": "Fechadura Tesa Smartair",
+      "filename": "Fechadura Tesa SmartAir.jpg",
+      "source_image": "Fechadura Tesa SmartAir.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "logo---boa-qualidade": {
+      "asset_path": "img/logos/logo - boa qualidade.jpg",
+      "name_display": "Logo   Boa Qualidade",
+      "filename": "logo - boa qualidade.jpg",
+      "source_image": "logo - boa qualidade.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "cafifos2": {
+      "asset_path": "img/fenolicos/cafifos2.jpg",
+      "name_display": "Cafifos2",
+      "filename": "cafifos2.jpg",
+      "source_image": "cafifos2.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121819": {
+      "asset_path": "img/tapetes/IMG_20190305_121819.jpg",
+      "name_display": "IMG 20190305 121819",
+      "filename": "IMG_20190305_121819.jpg",
+      "source_image": "IMG_20190305_121819.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "dmflex-fenolicos-mobiliario-galeria4": {
+      "asset_path": "img/fenolicos/dmflex-fenolicos-mobiliario-galeria4.jpg",
+      "name_display": "Dmflex Fenolicos Mobiliario Galeria4",
+      "filename": "dmflex-fenolicos-mobiliario-galeria4.jpg",
+      "source_image": "dmflex-fenolicos-mobiliario-galeria4.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "calha-redonda": {
+      "asset_path": "img/cortinados/Calha Redonda.jpg",
+      "name_display": "Calha Redonda",
+      "filename": "Calha Redonda.jpg",
+      "source_image": "Calha Redonda.jpg",
+      "tier": "2d",
+      "category_display": "04 - Cortinados",
+      "category": "cortinados"
+    },
+    "mobiliario6": {
+      "asset_path": "img/fenolicos/mobiliario6.jpg",
+      "name_display": "Mobiliario6",
+      "filename": "mobiliario6.jpg",
+      "source_image": "mobiliario6.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "revestimento-em-fenólico-parede": {
+      "asset_path": "img/fenolicos/Revestimento em fenólico parede.jpg",
+      "name_display": "Revestimento Em Fenólico Parede",
+      "filename": "Revestimento em fenólico parede.jpg",
+      "source_image": "Revestimento em fenólico parede.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121102": {
+      "asset_path": "img/tapetes/IMG_20190305_121102.jpg",
+      "name_display": "IMG 20190305 121102",
+      "filename": "IMG_20190305_121102.jpg",
+      "source_image": "IMG_20190305_121102.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "mobiliario4": {
+      "asset_path": "img/fenolicos/mobiliario4.jpg",
+      "name_display": "Mobiliario4",
+      "filename": "mobiliario4.jpg",
+      "source_image": "mobiliario4.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_130307": {
+      "asset_path": "img/mobiliario/IMG_20190305_130307.jpg",
+      "name_display": "IMG 20190305 130307",
+      "filename": "IMG_20190305_130307.jpg",
+      "source_image": "IMG_20190305_130307.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "3": {
+      "asset_path": "img/fenolicos/3.jpg",
+      "name_display": "3",
+      "filename": "3.jpg",
+      "source_image": "3.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "roda": {
+      "asset_path": "img/logos/Roda.jpg",
+      "name_display": "Roda",
+      "filename": "Roda.jpg",
+      "source_image": "Roda.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "33181647_1858055564245573_1821268645506973696_n": {
+      "asset_path": "img/fenolicos/33181647_1858055564245573_1821268645506973696_n.jpg",
+      "name_display": "33181647 1858055564245573 1821268645506973696 N",
+      "filename": "33181647_1858055564245573_1821268645506973696_n.jpg",
+      "source_image": "33181647_1858055564245573_1821268645506973696_n.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "motorização-de-chão-oculta-para-portas-de-batente-em-vidro.-com-radar-deteção-no-tecto-falso.": {
+      "asset_path": "img/portas/Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso..jpg",
+      "name_display": "Motorização De Chão Oculta Para Portas De Batente Em Vidro. Com Radar Deteção No Tecto Falso.",
+      "filename": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso..jpg",
+      "source_image": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso..jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "img_20190305_121644": {
+      "asset_path": "img/tapetes/IMG_20190305_121644.jpg",
+      "name_display": "IMG 20190305 121644",
+      "filename": "IMG_20190305_121644.jpg",
+      "source_image": "IMG_20190305_121644.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "motor-+-calha---cortinado": {
+      "asset_path": "img/cortinados/motor + calha - cortinado.jpg",
+      "name_display": "Motor + Calha   Cortinado",
+      "filename": "motor + calha - cortinado.jpg",
+      "source_image": "motor + calha - cortinado.jpg",
+      "tier": "2d",
+      "category_display": "04 - Cortinados",
+      "category": "cortinados"
+    },
+    "dsc01661": {
+      "asset_path": "img/fenolicos/DSC01661.JPG",
+      "name_display": "DSC01661",
+      "filename": "DSC01661.JPG",
+      "source_image": "DSC01661.JPG",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "11988728_994258730625265_6434491091417838290_n": {
+      "asset_path": "img/automatismos/11988728_994258730625265_6434491091417838290_n.jpg",
+      "name_display": "11988728 994258730625265 6434491091417838290 N",
+      "filename": "11988728_994258730625265_6434491091417838290_n.jpg",
+      "source_image": "11988728_994258730625265_6434491091417838290_n.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "sistemas-de-carga2": {
+      "asset_path": "img/prot-solar/sistemas de carga2.jpg",
+      "name_display": "Sistemas De Carga2",
+      "filename": "sistemas de carga2.jpg",
+      "source_image": "sistemas de carga2.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "20.pos-(1)": {
+      "asset_path": "img/portas/20.pos (1).jpg",
+      "name_display": "20.Pos (1)",
+      "filename": "20.pos (1).jpg",
+      "source_image": "20.pos (1).jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "img_20190305_120922": {
+      "asset_path": "img/tapetes/IMG_20190305_120922.jpg",
+      "name_display": "IMG 20190305 120922",
+      "filename": "IMG_20190305_120922.jpg",
+      "source_image": "IMG_20190305_120922.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "cais3": {
+      "asset_path": "img/prot-solar/cais3.jpg",
+      "name_display": "Cais3",
+      "filename": "cais3.jpg",
+      "source_image": "cais3.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "dezembro---chaves2": {
+      "asset_path": "img/portas/Dezembro - chaves2.jpg",
+      "name_display": "Dezembro   Chaves2",
+      "filename": "Dezembro - chaves2.jpg",
+      "source_image": "Dezembro - chaves2.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "rede-mosq-(2)": {
+      "asset_path": "img/redes-mosquiteiras/rede mosq (2).jpg",
+      "name_display": "Rede Mosq (2)",
+      "filename": "rede mosq (2).jpg",
+      "source_image": "rede mosq (2).jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "portas5": {
+      "asset_path": "img/fenolicos/portas5.jpg",
+      "name_display": "Portas5",
+      "filename": "portas5.jpg",
+      "source_image": "portas5.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "19732160_1525014897549643_3416693742878215921_n": {
+      "asset_path": "img/portas/19732160_1525014897549643_3416693742878215921_n.jpg",
+      "name_display": "19732160 1525014897549643 3416693742878215921 N",
+      "filename": "19732160_1525014897549643_3416693742878215921_n.jpg",
+      "source_image": "19732160_1525014897549643_3416693742878215921_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "cabines6": {
+      "asset_path": "img/fenolicos/Cabines6.jpg",
+      "name_display": "Cabines6",
+      "filename": "Cabines6.jpg",
+      "source_image": "Cabines6.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "top-m": {
+      "asset_path": "img/controlo-acesso/top-m.jpg",
+      "name_display": "Top M",
+      "filename": "top-m.jpg",
+      "source_image": "top-m.jpg",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "tapete-personalizado": {
+      "asset_path": "img/tapetes/Tapete Personalizado.JPG",
+      "name_display": "Tapete Personalizado",
+      "filename": "Tapete Personalizado.JPG",
+      "source_image": "Tapete Personalizado.JPG",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "15871485_1338337629550705_9220135814168031732_n": {
+      "asset_path": "img/portas/15871485_1338337629550705_9220135814168031732_n.jpg",
+      "name_display": "15871485 1338337629550705 9220135814168031732 N",
+      "filename": "15871485_1338337629550705_9220135814168031732_n.jpg",
+      "source_image": "15871485_1338337629550705_9220135814168031732_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "pergola-p-150---dupla-ii": {
+      "asset_path": "img/pergola/Pergola P-150 - Dupla II.jpg",
+      "name_display": "Pergola P 150   Dupla II",
+      "filename": "Pergola P-150 - Dupla II.jpg",
+      "source_image": "Pergola P-150 - Dupla II.jpg",
+      "tier": "2d",
+      "category_display": "12 - Pérgola",
+      "category": "pergola"
+    },
+    "portas9": {
+      "asset_path": "img/fenolicos/portas9.jpg",
+      "name_display": "Portas9",
+      "filename": "portas9.jpg",
+      "source_image": "portas9.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "calha-retangular": {
+      "asset_path": "img/cortinados/Calha Retangular.jpg",
+      "name_display": "Calha Retangular",
+      "filename": "Calha Retangular.jpg",
+      "source_image": "Calha Retangular.jpg",
+      "tier": "2d",
+      "category_display": "04 - Cortinados",
+      "category": "cortinados"
+    },
+    "portas6": {
+      "asset_path": "img/fenolicos/portas6.jpg",
+      "name_display": "Portas6",
+      "filename": "portas6.jpg",
+      "source_image": "portas6.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "drakobox-torniquete-1548108-361x230": {
+      "asset_path": "img/mobiliario/drakobox-torniquete-1548108-361x230.jpg",
+      "name_display": "Drakobox Torniquete 1548108 361X230",
+      "filename": "drakobox-torniquete-1548108-361x230.jpg",
+      "source_image": "drakobox-torniquete-1548108-361x230.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,",
+      "filename": "Portas automáticas correr e de batente herméticas,.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "logotipo_image_red": {
+      "asset_path": "img/logos/Logotipo_image_red.jpg",
+      "name_display": "Logotipo Image Red",
+      "filename": "Logotipo_image_red.jpg",
+      "source_image": "Logotipo_image_red.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "mosq-plissada_2": {
+      "asset_path": "img/redes-mosquiteiras/mosq plissada_2.jpg",
+      "name_display": "Mosq Plissada 2",
+      "filename": "mosq plissada_2.jpg",
+      "source_image": "mosq plissada_2.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "dierre": {
+      "asset_path": "img/portas/dierre.jpg",
+      "name_display": "Dierre",
+      "filename": "dierre.jpg",
+      "source_image": "dierre.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "caixa-de-reboco": {
+      "asset_path": "img/fenolicos/caixa de reboco.jpg",
+      "name_display": "Caixa De Reboco",
+      "filename": "caixa de reboco.jpg",
+      "source_image": "caixa de reboco.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "cais4": {
+      "asset_path": "img/prot-solar/cais4.jpg",
+      "name_display": "Cais4",
+      "filename": "cais4.jpg",
+      "source_image": "cais4.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "img_20190305_130505": {
+      "asset_path": "img/mobiliario/IMG_20190305_130505.jpg",
+      "name_display": "IMG 20190305 130505",
+      "filename": "IMG_20190305_130505.jpg",
+      "source_image": "IMG_20190305_130505.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "comando": {
+      "asset_path": "img/controlo-acesso/Comando.jpg",
+      "name_display": "Comando",
+      "filename": "Comando.jpg",
+      "source_image": "Comando.jpg",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "dmflex-fenolicos-mobiliario-galeria5": {
+      "asset_path": "img/fenolicos/dmflex-fenolicos-mobiliario-galeria5.jpg",
+      "name_display": "Dmflex Fenolicos Mobiliario Galeria5",
+      "filename": "dmflex-fenolicos-mobiliario-galeria5.jpg",
+      "source_image": "dmflex-fenolicos-mobiliario-galeria5.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "45765382_2112736452110815_6778083813340741632_n": {
+      "asset_path": "img/mobiliario/45765382_2112736452110815_6778083813340741632_n.jpg",
+      "name_display": "45765382 2112736452110815 6778083813340741632 N",
+      "filename": "45765382_2112736452110815_6778083813340741632_n.jpg",
+      "source_image": "45765382_2112736452110815_6778083813340741632_n.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "porta-auto-procedural": {
+      "asset_path": "showcases/porta-auto-procedural.html",
+      "name_display": "Porta Automática (Interactivo)",
+      "filename": null,
+      "source_image": null,
+      "tier": "procedural",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "logotipo_image_mail-(640x317)": {
+      "asset_path": "img/logos/Logotipo_image_mail (640x317).jpg",
+      "name_display": "Logotipo Image Mail (640X317)",
+      "filename": "Logotipo_image_mail (640x317).jpg",
+      "source_image": "Logotipo_image_mail (640x317).jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "portas4": {
+      "asset_path": "img/fenolicos/portas4.jpg",
+      "name_display": "Portas4",
+      "filename": "portas4.jpg",
+      "source_image": "portas4.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "portas8": {
+      "asset_path": "img/fenolicos/portas8.jpg",
+      "name_display": "Portas8",
+      "filename": "portas8.jpg",
+      "source_image": "portas8.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121200": {
+      "asset_path": "img/tapetes/IMG_20190305_121200.jpg",
+      "name_display": "IMG 20190305 121200",
+      "filename": "IMG_20190305_121200.jpg",
+      "source_image": "IMG_20190305_121200.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "cais1": {
+      "asset_path": "img/prot-solar/cais1.jpg",
+      "name_display": "Cais1",
+      "filename": "cais1.jpg",
+      "source_image": "cais1.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "nice-toona_p": {
+      "asset_path": "img/automatismos/nice-toona_p.jpg",
+      "name_display": "Nice Toona P",
+      "filename": "nice-toona_p.jpg",
+      "source_image": "nice-toona_p.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_120437": {
+      "asset_path": "img/tapetes/IMG_20190305_120437.jpg",
+      "name_display": "IMG 20190305 120437",
+      "filename": "IMG_20190305_120437.jpg",
+      "source_image": "IMG_20190305_120437.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "img_20190305_130503": {
+      "asset_path": "img/mobiliario/IMG_20190305_130503.jpg",
+      "name_display": "IMG 20190305 130503",
+      "filename": "IMG_20190305_130503.jpg",
+      "source_image": "IMG_20190305_130503.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "21270795_1585381308179668_4089267687507565862_n": {
+      "asset_path": "img/portas/21270795_1585381308179668_4089267687507565862_n.jpg",
+      "name_display": "21270795 1585381308179668 4089267687507565862 N",
+      "filename": "21270795_1585381308179668_4089267687507565862_n.jpg",
+      "source_image": "21270795_1585381308179668_4089267687507565862_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "15966322_1342410719143396_3497599951109629647_n": {
+      "asset_path": "img/automatismos/15966322_1342410719143396_3497599951109629647_n.jpg",
+      "name_display": "15966322 1342410719143396 3497599951109629647 N",
+      "filename": "15966322_1342410719143396_3497599951109629647_n.jpg",
+      "source_image": "15966322_1342410719143396_3497599951109629647_n.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "correr": {
+      "asset_path": "img/redes-mosquiteiras/Correr.jpg",
+      "name_display": "Correr",
+      "filename": "Correr.jpg",
+      "source_image": "Correr.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "img_20190305_130551": {
+      "asset_path": "img/mobiliario/IMG_20190305_130551.jpg",
+      "name_display": "IMG 20190305 130551",
+      "filename": "IMG_20190305_130551.jpg",
+      "source_image": "IMG_20190305_130551.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "21271168_1585379218179877_3031837386691645044_n": {
+      "asset_path": "img/portas/21271168_1585379218179877_3031837386691645044_n.jpg",
+      "name_display": "21271168 1585379218179877 3031837386691645044 N",
+      "filename": "21271168_1585379218179877_3031837386691645044_n.jpg",
+      "source_image": "21271168_1585379218179877_3031837386691645044_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "control-systems-fb": {
+      "asset_path": "img/controlo-acesso/control-systems-fb.png",
+      "name_display": "Control Systems Fb",
+      "filename": "control-systems-fb.png",
+      "source_image": "control-systems-fb.png",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "comando2": {
+      "asset_path": "img/controlo-acesso/Comando2.jpg",
+      "name_display": "Comando2",
+      "filename": "Comando2.jpg",
+      "source_image": "Comando2.jpg",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "revestimento-em-fenólico-parede-2": {
+      "asset_path": "img/fenolicos/Revestimento em fenólico parede 2.jpg",
+      "name_display": "Revestimento Em Fenólico Parede 2",
+      "filename": "Revestimento em fenólico parede 2.jpg",
+      "source_image": "Revestimento em fenólico parede 2.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "15871485_1338337629550705_9220135814168031732_n-(1)": {
+      "asset_path": "img/portas/15871485_1338337629550705_9220135814168031732_n (1).jpg",
+      "name_display": "15871485 1338337629550705 9220135814168031732 N (1)",
+      "filename": "15871485_1338337629550705_9220135814168031732_n (1).jpg",
+      "source_image": "15871485_1338337629550705_9220135814168031732_n (1).jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "27545116_1745288625522268_423280344386534153_n": {
+      "asset_path": "img/portas/27545116_1745288625522268_423280344386534153_n.jpg",
+      "name_display": "27545116 1745288625522268 423280344386534153 N",
+      "filename": "27545116_1745288625522268_423280344386534153_n.jpg",
+      "source_image": "27545116_1745288625522268_423280344386534153_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "mobiliario3": {
+      "asset_path": "img/fenolicos/mobiliario3.jpg",
+      "name_display": "Mobiliario3",
+      "filename": "mobiliario3.jpg",
+      "source_image": "mobiliario3.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "20.pos": {
+      "asset_path": "img/portas/20.pos.jpg",
+      "name_display": "20.Pos",
+      "filename": "20.pos.jpg",
+      "source_image": "20.pos.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "porta-segurança-dierre": {
+      "asset_path": "img/portas/Porta segurança DIERRE.jpg",
+      "name_display": "Porta Segurança DIERRE",
+      "filename": "Porta segurança DIERRE.jpg",
+      "source_image": "Porta segurança DIERRE.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "mobiliario5": {
+      "asset_path": "img/fenolicos/mobiliario5.jpg",
+      "name_display": "Mobiliario5",
+      "filename": "mobiliario5.jpg",
+      "source_image": "mobiliario5.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121738": {
+      "asset_path": "img/tapetes/IMG_20190305_121738.jpg",
+      "name_display": "IMG 20190305 121738",
+      "filename": "IMG_20190305_121738.jpg",
+      "source_image": "IMG_20190305_121738.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "logotipo_image_mail-(320x158)": {
+      "asset_path": "img/logos/Logotipo_image_mail (320x158).jpg",
+      "name_display": "Logotipo Image Mail (320X158)",
+      "filename": "Logotipo_image_mail (320x158).jpg",
+      "source_image": "Logotipo_image_mail (320x158).jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "f9a92c5f-c233-4d46-ae85-64644b6f9420": {
+      "asset_path": "img/automatismos/f9a92c5f-c233-4d46-ae85-64644b6f9420.jpg",
+      "name_display": "F9a92c5f C233 4D46 Ae85 64644B6f9420",
+      "filename": "f9a92c5f-c233-4d46-ae85-64644b6f9420.jpg",
+      "source_image": "f9a92c5f-c233-4d46-ae85-64644b6f9420.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "mobiliario7": {
+      "asset_path": "img/fenolicos/mobiliario7.jpg",
+      "name_display": "Mobiliario7",
+      "filename": "mobiliario7.jpg",
+      "source_image": "mobiliario7.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "rollladen_weiss_0317": {
+      "asset_path": "img/automatismos/Rollladen_weiss_0317.jpg",
+      "name_display": "Rollladen Weiss 0317",
+      "filename": "Rollladen_weiss_0317.jpg",
+      "source_image": "Rollladen_weiss_0317.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_121718": {
+      "asset_path": "img/tapetes/IMG_20190305_121718.jpg",
+      "name_display": "IMG 20190305 121718",
+      "filename": "IMG_20190305_121718.jpg",
+      "source_image": "IMG_20190305_121718.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "cabines1": {
+      "asset_path": "img/fenolicos/Cabines1.jpg",
+      "name_display": "Cabines1",
+      "filename": "Cabines1.jpg",
+      "source_image": "Cabines1.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "12042931_1001026633281808_4591525391802471586_n": {
+      "asset_path": "img/mobiliario/12042931_1001026633281808_4591525391802471586_n.jpg",
+      "name_display": "12042931 1001026633281808 4591525391802471586 N",
+      "filename": "12042931_1001026633281808_4591525391802471586_n.jpg",
+      "source_image": "12042931_1001026633281808_4591525391802471586_n.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "tampo-em-fenólico-com-corte-em-fresadora-cnc": {
+      "asset_path": "img/fenolicos/Tampo em fenólico com corte em fresadora CNC.jpg",
+      "name_display": "Tampo Em Fenólico Com Corte Em Fresadora CNC",
+      "filename": "Tampo em fenólico com corte em fresadora CNC.jpg",
+      "source_image": "Tampo em fenólico com corte em fresadora CNC.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "cabines7": {
+      "asset_path": "img/fenolicos/Cabines7.jpg",
+      "name_display": "Cabines7",
+      "filename": "Cabines7.jpg",
+      "source_image": "Cabines7.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "33375891_1858958807488582_4356561726934614016_n": {
+      "asset_path": "img/portas/33375891_1858958807488582_4356561726934614016_n.jpg",
+      "name_display": "33375891 1858958807488582 4356561726934614016 N",
+      "filename": "33375891_1858958807488582_4356561726934614016_n.jpg",
+      "source_image": "33375891_1858958807488582_4356561726934614016_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "12046759_1001026629948475_8925730658944439276_n": {
+      "asset_path": "img/mobiliario/12046759_1001026629948475_8925730658944439276_n.jpg",
+      "name_display": "12046759 1001026629948475 8925730658944439276 N",
+      "filename": "12046759_1001026629948475_8925730658944439276_n.jpg",
+      "source_image": "12046759_1001026629948475_8925730658944439276_n.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "dmflex-fenolicos-cabines-galeria4": {
+      "asset_path": "img/fenolicos/dmflex-fenolicos-cabines-galeria4.jpg",
+      "name_display": "Dmflex Fenolicos Cabines Galeria4",
+      "filename": "dmflex-fenolicos-cabines-galeria4.jpg",
+      "source_image": "dmflex-fenolicos-cabines-galeria4.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "cais2": {
+      "asset_path": "img/prot-solar/cais2.jpg",
+      "name_display": "Cais2",
+      "filename": "cais2.jpg",
+      "source_image": "cais2.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "15965347_1342410692476732_1230660471339567800_n": {
+      "asset_path": "img/automatismos/15965347_1342410692476732_1230660471339567800_n.jpg",
+      "name_display": "15965347 1342410692476732 1230660471339567800 N",
+      "filename": "15965347_1342410692476732_1230660471339567800_n.jpg",
+      "source_image": "15965347_1342410692476732_1230660471339567800_n.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "motor-porton-batiente-automatismos-nice-corredizo-basculante-d_nq_np_599111-mlu20494468897_112015-f": {
+      "asset_path": "img/automatismos/motor-porton-batiente-automatismos-nice-corredizo-basculante-D_NQ_NP_599111-MLU20494468897_112015-F.jpg",
+      "name_display": "Motor Porton Batiente Automatismos Nice Corredizo Basculante D NQ NP 599111 MLU20494468897 112015 F",
+      "filename": "motor-porton-batiente-automatismos-nice-corredizo-basculante-D_NQ_NP_599111-MLU20494468897_112015-F.jpg",
+      "source_image": "motor-porton-batiente-automatismos-nice-corredizo-basculante-D_NQ_NP_599111-MLU20494468897_112015-F.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,1": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,1.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,1",
+      "filename": "Portas automáticas correr e de batente herméticas,1.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,1.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "img_20190305_130723": {
+      "asset_path": "img/mobiliario/IMG_20190305_130723.jpg",
+      "name_display": "IMG 20190305 130723",
+      "filename": "IMG_20190305_130723.jpg",
+      "source_image": "IMG_20190305_130723.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "img_20190305_125543": {
+      "asset_path": "img/tapetes/IMG_20190305_125543.jpg",
+      "name_display": "IMG 20190305 125543",
+      "filename": "IMG_20190305_125543.jpg",
+      "source_image": "IMG_20190305_125543.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "_dsc5619": {
+      "asset_path": "img/portas/_DSC5619.JPG",
+      "name_display": " DSC5619",
+      "filename": "_DSC5619.JPG",
+      "source_image": "_DSC5619.JPG",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "microperfurada": {
+      "asset_path": "img/portas/microperfurada.jpg",
+      "name_display": "Microperfurada",
+      "filename": "microperfurada.jpg",
+      "source_image": "microperfurada.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,5": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,5.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,5",
+      "filename": "Portas automáticas correr e de batente herméticas,5.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,5.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "img_20190305_121128": {
+      "asset_path": "img/tapetes/IMG_20190305_121128.jpg",
+      "name_display": "IMG 20190305 121128",
+      "filename": "IMG_20190305_121128.jpg",
+      "source_image": "IMG_20190305_121128.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "img_20190305_121256": {
+      "asset_path": "img/tapetes/IMG_20190305_121256.jpg",
+      "name_display": "IMG 20190305 121256",
+      "filename": "IMG_20190305_121256.jpg",
+      "source_image": "IMG_20190305_121256.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "19.pos": {
+      "asset_path": "img/portas/19.pos.jpg",
+      "name_display": "19.Pos",
+      "filename": "19.pos.jpg",
+      "source_image": "19.pos.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "betoneira": {
+      "asset_path": "img/automatismos/betoneira.jpg",
+      "name_display": "Betoneira",
+      "filename": "betoneira.jpg",
+      "source_image": "betoneira.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "calha-simples": {
+      "asset_path": "img/cortinados/Calha Simples.jpg",
+      "name_display": "Calha Simples",
+      "filename": "Calha Simples.jpg",
+      "source_image": "Calha Simples.jpg",
+      "tier": "2d",
+      "category_display": "04 - Cortinados",
+      "category": "cortinados"
+    },
+    "12369201_1033897096661428_6738702452545018471_n": {
+      "asset_path": "img/portas/12369201_1033897096661428_6738702452545018471_n.jpg",
+      "name_display": "12369201 1033897096661428 6738702452545018471 N",
+      "filename": "12369201_1033897096661428_6738702452545018471_n.jpg",
+      "source_image": "12369201_1033897096661428_6738702452545018471_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "pergola-p-150---dupla-v": {
+      "asset_path": "img/pergola/Pergola P-150 - Dupla V.jpg",
+      "name_display": "Pergola P 150   Dupla V",
+      "filename": "Pergola P-150 - Dupla V.jpg",
+      "source_image": "Pergola P-150 - Dupla V.jpg",
+      "tier": "2d",
+      "category_display": "12 - Pérgola",
+      "category": "pergola"
+    },
+    "motor-para-puerta-basculante-nice-automatismo": {
+      "asset_path": "img/automatismos/motor-para-puerta-basculante-nice-automatismo.jpg",
+      "name_display": "Motor Para Puerta Basculante Nice Automatismo",
+      "filename": "motor-para-puerta-basculante-nice-automatismo.jpg",
+      "source_image": "motor-para-puerta-basculante-nice-automatismo.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_130512": {
+      "asset_path": "img/mobiliario/IMG_20190305_130512.jpg",
+      "name_display": "IMG 20190305 130512",
+      "filename": "IMG_20190305_130512.jpg",
+      "source_image": "IMG_20190305_130512.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "cabines2": {
+      "asset_path": "img/fenolicos/Cabines2.jpg",
+      "name_display": "Cabines2",
+      "filename": "Cabines2.jpg",
+      "source_image": "Cabines2.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "abrigos2": {
+      "asset_path": "img/prot-solar/abrigos2.jpg",
+      "name_display": "Abrigos2",
+      "filename": "abrigos2.jpg",
+      "source_image": "abrigos2.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "12279106_1023677297683408_5443155310362288543_n": {
+      "asset_path": "img/portas/12279106_1023677297683408_5443155310362288543_n.jpg",
+      "name_display": "12279106 1023677297683408 5443155310362288543 N",
+      "filename": "12279106_1023677297683408_5443155310362288543_n.jpg",
+      "source_image": "12279106_1023677297683408_5443155310362288543_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "chaves": {
+      "asset_path": "img/portas/chaves.jpg",
+      "name_display": "Chaves",
+      "filename": "chaves.jpg",
+      "source_image": "chaves.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "spy_news_1": {
+      "asset_path": "img/automatismos/spy_news_1.jpg",
+      "name_display": "Spy News 1",
+      "filename": "spy_news_1.jpg",
+      "source_image": "spy_news_1.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "973296669_too3000": {
+      "asset_path": "img/controlo-acesso/973296669_TOO3000.jpg",
+      "name_display": "973296669 TOO3000",
+      "filename": "973296669_TOO3000.jpg",
+      "source_image": "973296669_TOO3000.jpg",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "motorização-de-chão-oculta-para-portas-de-batente-em-vidro.-com-radar-deteção-no-tecto-falso.4": {
+      "asset_path": "img/portas/Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.4.jpg",
+      "name_display": "Motorização De Chão Oculta Para Portas De Batente Em Vidro. Com Radar Deteção No Tecto Falso.4",
+      "filename": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.4.jpg",
+      "source_image": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.4.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "12046846_1001028183281653_3258077254718767391_n": {
+      "asset_path": "img/mobiliario/12046846_1001028183281653_3258077254718767391_n.jpg",
+      "name_display": "12046846 1001028183281653 3258077254718767391 N",
+      "filename": "12046846_1001028183281653_3258077254718767391_n.jpg",
+      "source_image": "12046846_1001028183281653_3258077254718767391_n.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "27540399_1745288598855604_5763303469322051729_n": {
+      "asset_path": "img/portas/27540399_1745288598855604_5763303469322051729_n.jpg",
+      "name_display": "27540399 1745288598855604 5763303469322051729 N",
+      "filename": "27540399_1745288598855604_5763303469322051729_n.jpg",
+      "source_image": "27540399_1745288598855604_5763303469322051729_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "estores-c60-procedural": {
+      "asset_path": "showcases/estores-c60-procedural.html",
+      "name_display": "Estores C60 (Interactivo)",
+      "filename": null,
+      "source_image": null,
+      "tier": "procedural",
+      "category_display": "02 - Estores",
+      "category": "estores"
+    },
+    "1-19": {
+      "asset_path": "img/controlo-acesso/1-19.jpg",
+      "name_display": "1 19",
+      "filename": "1-19.jpg",
+      "source_image": "1-19.jpg",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "tapete-aluminio-tubular-estriado-1": {
+      "asset_path": "img/tapetes/Tapete Aluminio Tubular Estriado 1.jpg",
+      "name_display": "Tapete Aluminio Tubular Estriado 1",
+      "filename": "Tapete Aluminio Tubular Estriado 1.jpg",
+      "source_image": "Tapete Aluminio Tubular Estriado 1.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "img_20190305_130600": {
+      "asset_path": "img/mobiliario/IMG_20190305_130600.jpg",
+      "name_display": "IMG 20190305 130600",
+      "filename": "IMG_20190305_130600.jpg",
+      "source_image": "IMG_20190305_130600.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "rede-mosq": {
+      "asset_path": "img/redes-mosquiteiras/rede mosq.jpg",
+      "name_display": "Rede Mosq",
+      "filename": "rede mosq.jpg",
+      "source_image": "rede mosq.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "4": {
+      "asset_path": "img/fenolicos/4.jpg",
+      "name_display": "4",
+      "filename": "4.jpg",
+      "source_image": "4.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "15941301_1342410735810061_4949640536444135388_n": {
+      "asset_path": "img/automatismos/15941301_1342410735810061_4949640536444135388_n.jpg",
+      "name_display": "15941301 1342410735810061 4949640536444135388 N",
+      "filename": "15941301_1342410735810061_4949640536444135388_n.jpg",
+      "source_image": "15941301_1342410735810061_4949640536444135388_n.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "sistema-gestão-de-parque-estacionamento.2": {
+      "asset_path": "img/mobiliario/Sistema gestão de parque estacionamento.2.jpg",
+      "name_display": "Sistema Gestão De Parque Estacionamento.2",
+      "filename": "Sistema gestão de parque estacionamento.2.jpg",
+      "source_image": "Sistema gestão de parque estacionamento.2.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "motorização-de-chão-oculta-para-portas-de-batente-em-vidro.-com-radar-deteção-no-tecto-falso.3": {
+      "asset_path": "img/portas/Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.3.jpg",
+      "name_display": "Motorização De Chão Oculta Para Portas De Batente Em Vidro. Com Radar Deteção No Tecto Falso.3",
+      "filename": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.3.jpg",
+      "source_image": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.3.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "mobiliario2": {
+      "asset_path": "img/fenolicos/mobiliario2.jpg",
+      "name_display": "Mobiliario2",
+      "filename": "mobiliario2.jpg",
+      "source_image": "mobiliario2.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "cafifos5": {
+      "asset_path": "img/fenolicos/cafifos5.jpg",
+      "name_display": "Cafifos5",
+      "filename": "cafifos5.jpg",
+      "source_image": "cafifos5.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "nice_wingo_2024_kce": {
+      "asset_path": "img/controlo-acesso/nice_wingo_2024_kce.jpg",
+      "name_display": "Nice Wingo 2024 Kce",
+      "filename": "nice_wingo_2024_kce.jpg",
+      "source_image": "nice_wingo_2024_kce.jpg",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "motorização-de-chão-oculta-para-portas-de-batente-em-vidro.-com-radar-deteção-no-tecto-falso.2": {
+      "asset_path": "img/portas/Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.2.jpg",
+      "name_display": "Motorização De Chão Oculta Para Portas De Batente Em Vidro. Com Radar Deteção No Tecto Falso.2",
+      "filename": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.2.jpg",
+      "source_image": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.2.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "fechadura-tesa-spy": {
+      "asset_path": "img/mobiliario/Fechadura Tesa Spy.jpg",
+      "name_display": "Fechadura Tesa Spy",
+      "filename": "Fechadura Tesa Spy.jpg",
+      "source_image": "Fechadura Tesa Spy.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "12009696_1001029199948218_715021363712813333_n": {
+      "asset_path": "img/portas/12009696_1001029199948218_715021363712813333_n.jpg",
+      "name_display": "12009696 1001029199948218 715021363712813333 N",
+      "filename": "12009696_1001029199948218_715021363712813333_n.jpg",
+      "source_image": "12009696_1001029199948218_715021363712813333_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,6": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,6.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,6",
+      "filename": "Portas automáticas correr e de batente herméticas,6.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,6.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "portas3": {
+      "asset_path": "img/fenolicos/portas3.jpg",
+      "name_display": "Portas3",
+      "filename": "portas3.jpg",
+      "source_image": "portas3.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "_dsc5605": {
+      "asset_path": "img/portas/_DSC5605.JPG",
+      "name_display": " DSC5605",
+      "filename": "_DSC5605.JPG",
+      "source_image": "_DSC5605.JPG",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "portas-em-painel-fenólico-com-aro-em-alumínio-com-ferragens-am-aço-inox": {
+      "asset_path": "img/fenolicos/Portas em painel fenólico com aro em alumínio com ferragens am aço inox.jpg",
+      "name_display": "Portas Em Painel Fenólico Com Aro Em Alumínio Com Ferragens Am Aço Inox",
+      "filename": "Portas em painel fenólico com aro em alumínio com ferragens am aço inox.jpg",
+      "source_image": "Portas em painel fenólico com aro em alumínio com ferragens am aço inox.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "rede-plissada-refª-27": {
+      "asset_path": "img/redes-mosquiteiras/Rede Plissada Refª 27.jpg",
+      "name_display": "Rede Plissada Refª 27",
+      "filename": "Rede Plissada Refª 27.jpg",
+      "source_image": "Rede Plissada Refª 27.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "zanz1": {
+      "asset_path": "img/redes-mosquiteiras/zanz1.jpg",
+      "name_display": "Zanz1",
+      "filename": "zanz1.jpg",
+      "source_image": "zanz1.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "img_20190305_130658": {
+      "asset_path": "img/mobiliario/IMG_20190305_130658.jpg",
+      "name_display": "IMG 20190305 130658",
+      "filename": "IMG_20190305_130658.jpg",
+      "source_image": "IMG_20190305_130658.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "nice1": {
+      "asset_path": "img/automatismos/nice1.JPG",
+      "name_display": "Nice1",
+      "filename": "nice1.JPG",
+      "source_image": "nice1.JPG",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "0372cf03-83d1-4702-9e8d-5861a09f50cc": {
+      "asset_path": "img/automatismos/0372cf03-83d1-4702-9e8d-5861a09f50cc.jpg",
+      "name_display": "0372Cf03 83D1 4702 9E8d 5861A09f50cc",
+      "filename": "0372cf03-83d1-4702-9e8d-5861a09f50cc.jpg",
+      "source_image": "0372cf03-83d1-4702-9e8d-5861a09f50cc.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_130513": {
+      "asset_path": "img/mobiliario/IMG_20190305_130513.jpg",
+      "name_display": "IMG 20190305 130513",
+      "filename": "IMG_20190305_130513.jpg",
+      "source_image": "IMG_20190305_130513.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "coorer1": {
+      "asset_path": "img/redes-mosquiteiras/coorer1.jpg",
+      "name_display": "Coorer1",
+      "filename": "coorer1.jpg",
+      "source_image": "coorer1.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "2": {
+      "asset_path": "img/fenolicos/2.jpg",
+      "name_display": "2",
+      "filename": "2.jpg",
+      "source_image": "2.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121843": {
+      "asset_path": "img/tapetes/IMG_20190305_121843.jpg",
+      "name_display": "IMG 20190305 121843",
+      "filename": "IMG_20190305_121843.jpg",
+      "source_image": "IMG_20190305_121843.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "img_20190305_120743": {
+      "asset_path": "img/tapetes/IMG_20190305_120743.jpg",
+      "name_display": "IMG 20190305 120743",
+      "filename": "IMG_20190305_120743.jpg",
+      "source_image": "IMG_20190305_120743.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "pergola-p-150---dupla-i": {
+      "asset_path": "img/pergola/Pergola P-150 - Dupla I.jpg",
+      "name_display": "Pergola P 150   Dupla I",
+      "filename": "Pergola P-150 - Dupla I.jpg",
+      "source_image": "Pergola P-150 - Dupla I.jpg",
+      "tier": "2d",
+      "category_display": "12 - Pérgola",
+      "category": "pergola"
+    },
+    "foto-calha-varão": {
+      "asset_path": "img/cortinados/Foto calha-varão.png",
+      "name_display": "Foto Calha Varão",
+      "filename": "Foto calha-varão.png",
+      "source_image": "Foto calha-varão.png",
+      "tier": "2d",
+      "category_display": "04 - Cortinados",
+      "category": "cortinados"
+    },
+    "cafifos1": {
+      "asset_path": "img/fenolicos/cafifos1.jpg",
+      "name_display": "Cafifos1",
+      "filename": "cafifos1.jpg",
+      "source_image": "cafifos1.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "portas1": {
+      "asset_path": "img/fenolicos/portas1.jpg",
+      "name_display": "Portas1",
+      "filename": "portas1.jpg",
+      "source_image": "portas1.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121653": {
+      "asset_path": "img/tapetes/IMG_20190305_121653.jpg",
+      "name_display": "IMG 20190305 121653",
+      "filename": "IMG_20190305_121653.jpg",
+      "source_image": "IMG_20190305_121653.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,7": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,7.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,7",
+      "filename": "Portas automáticas correr e de batente herméticas,7.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,7.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "33159081_1858055690912227_2629654328964546560_n": {
+      "asset_path": "img/fenolicos/33159081_1858055690912227_2629654328964546560_n.jpg",
+      "name_display": "33159081 1858055690912227 2629654328964546560 N",
+      "filename": "33159081_1858055690912227_2629654328964546560_n.jpg",
+      "source_image": "33159081_1858055690912227_2629654328964546560_n.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "wingo-nice-instalacion": {
+      "asset_path": "img/automatismos/wingo-Nice-Instalacion.jpg",
+      "name_display": "Wingo Nice Instalacion",
+      "filename": "wingo-Nice-Instalacion.jpg",
+      "source_image": "wingo-Nice-Instalacion.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_125558": {
+      "asset_path": "img/tapetes/IMG_20190305_125558.jpg",
+      "name_display": "IMG 20190305 125558",
+      "filename": "IMG_20190305_125558.jpg",
+      "source_image": "IMG_20190305_125558.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "homepage_graffa_asso": {
+      "asset_path": "img/portas/homepage_graffa_asso.jpg",
+      "name_display": "Homepage Graffa Asso",
+      "filename": "homepage_graffa_asso.jpg",
+      "source_image": "homepage_graffa_asso.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "cafifos3": {
+      "asset_path": "img/fenolicos/cafifos3.jpg",
+      "name_display": "Cafifos3",
+      "filename": "cafifos3.jpg",
+      "source_image": "cafifos3.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "12339224_1033897033328101_6637258890608979236_o": {
+      "asset_path": "img/portas/12339224_1033897033328101_6637258890608979236_o.jpg",
+      "name_display": "12339224 1033897033328101 6637258890608979236 O",
+      "filename": "12339224_1033897033328101_6637258890608979236_o.jpg",
+      "source_image": "12339224_1033897033328101_6637258890608979236_o.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "statusedge-automatismos-para-portoes-nice-automation-nice-wingo-motor-de-batente-878731-361x230": {
+      "asset_path": "img/automatismos/statusedge-automatismos-para-portoes-nice-automation-nice-wingo-motor-de-batente-878731-361x230.jpg",
+      "name_display": "Statusedge Automatismos Para Portoes Nice Automation Nice Wingo Motor De Batente 878731 361X230",
+      "filename": "statusedge-automatismos-para-portoes-nice-automation-nice-wingo-motor-de-batente-878731-361x230.jpg",
+      "source_image": "statusedge-automatismos-para-portoes-nice-automation-nice-wingo-motor-de-batente-878731-361x230.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "20130702183827000000": {
+      "asset_path": "img/redes-mosquiteiras/20130702183827000000.jpg",
+      "name_display": "20130702183827000000",
+      "filename": "20130702183827000000.jpg",
+      "source_image": "20130702183827000000.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "logotipo_image": {
+      "asset_path": "img/logos/Logotipo_image.jpg",
+      "name_display": "Logotipo Image",
+      "filename": "Logotipo_image.jpg",
+      "source_image": "Logotipo_image.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "portas-automáticas-correr-e-de-batente-herméticas,4": {
+      "asset_path": "img/portas/Portas automáticas correr e de batente herméticas,4.jpg",
+      "name_display": "Portas Automáticas Correr E De Batente Herméticas,4",
+      "filename": "Portas automáticas correr e de batente herméticas,4.jpg",
+      "source_image": "Portas automáticas correr e de batente herméticas,4.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "a3b0ce2d-f158-44c9-85fb-2ad394999e9d": {
+      "asset_path": "img/controlo-acesso/a3b0ce2d-f158-44c9-85fb-2ad394999e9d.png",
+      "name_display": "A3b0ce2d F158 44C9 85Fb 2Ad394999e9d",
+      "filename": "a3b0ce2d-f158-44c9-85fb-2ad394999e9d.png",
+      "source_image": "a3b0ce2d-f158-44c9-85fb-2ad394999e9d.png",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "img_20190305_121847": {
+      "asset_path": "img/tapetes/IMG_20190305_121847.jpg",
+      "name_display": "IMG 20190305 121847",
+      "filename": "IMG_20190305_121847.jpg",
+      "source_image": "IMG_20190305_121847.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "mosquitera7": {
+      "asset_path": "img/redes-mosquiteiras/mosquitera7.jpg",
+      "name_display": "Mosquitera7",
+      "filename": "mosquitera7.jpg",
+      "source_image": "mosquitera7.jpg",
+      "tier": "2d",
+      "category_display": "03 - Redes Mosquiteiras",
+      "category": "redes-mosquiteiras"
+    },
+    "kit-motor-tubular-nice-ttgo-persianas-y-cortinas-hasta-96kg-d_nq_np_185115-mla25134163276_102016-f": {
+      "asset_path": "img/automatismos/kit-motor-tubular-nice-ttgo-persianas-y-cortinas-hasta-96kg-D_NQ_NP_185115-MLA25134163276_102016-F.jpg",
+      "name_display": "Kit Motor Tubular Nice Ttgo Persianas Y Cortinas Hasta 96Kg D NQ NP 185115 MLA25134163276 102016 F",
+      "filename": "kit-motor-tubular-nice-ttgo-persianas-y-cortinas-hasta-96kg-D_NQ_NP_185115-MLA25134163276_102016-F.jpg",
+      "source_image": "kit-motor-tubular-nice-ttgo-persianas-y-cortinas-hasta-96kg-D_NQ_NP_185115-MLA25134163276_102016-F.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_130237": {
+      "asset_path": "img/mobiliario/IMG_20190305_130237.jpg",
+      "name_display": "IMG 20190305 130237",
+      "filename": "IMG_20190305_130237.jpg",
+      "source_image": "IMG_20190305_130237.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "mobiliario": {
+      "asset_path": "img/fenolicos/mobiliario.jpg",
+      "name_display": "Mobiliario",
+      "filename": "mobiliario.jpg",
+      "source_image": "mobiliario.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121054": {
+      "asset_path": "img/tapetes/IMG_20190305_121054.jpg",
+      "name_display": "IMG 20190305 121054",
+      "filename": "IMG_20190305_121054.jpg",
+      "source_image": "IMG_20190305_121054.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "26903915_1728927747158356_7642669706487201667_n": {
+      "asset_path": "img/automatismos/26903915_1728927747158356_7642669706487201667_n.jpg",
+      "name_display": "26903915 1728927747158356 7642669706487201667 N",
+      "filename": "26903915_1728927747158356_7642669706487201667_n.jpg",
+      "source_image": "26903915_1728927747158356_7642669706487201667_n.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "img_20190305_121726": {
+      "asset_path": "img/tapetes/IMG_20190305_121726.jpg",
+      "name_display": "IMG 20190305 121726",
+      "filename": "IMG_20190305_121726.jpg",
+      "source_image": "IMG_20190305_121726.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "spy": {
+      "asset_path": "img/automatismos/spy.jpg",
+      "name_display": "Spy",
+      "filename": "spy.jpg",
+      "source_image": "spy.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "porta-em-fenólico-e-gabiente-em-alumínio-com-vidro-a-toda-a-altura": {
+      "asset_path": "img/fenolicos/Porta em fenólico e gabiente em alumínio com vidro a toda a altura.jpg",
+      "name_display": "Porta Em Fenólico E Gabiente Em Alumínio Com Vidro A Toda A Altura",
+      "filename": "Porta em fenólico e gabiente em alumínio com vidro a toda a altura.jpg",
+      "source_image": "Porta em fenólico e gabiente em alumínio com vidro a toda a altura.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "33248995_1858958814155248_7223733549868777472_n": {
+      "asset_path": "img/portas/33248995_1858958814155248_7223733549868777472_n.jpg",
+      "name_display": "33248995 1858958814155248 7223733549868777472 N",
+      "filename": "33248995_1858958814155248_7223733549868777472_n.jpg",
+      "source_image": "33248995_1858958814155248_7223733549868777472_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "sistemas-de-carga3": {
+      "asset_path": "img/prot-solar/sistemas de carga3.jpg",
+      "name_display": "Sistemas De Carga3",
+      "filename": "sistemas de carga3.jpg",
+      "source_image": "sistemas de carga3.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "comando1": {
+      "asset_path": "img/controlo-acesso/Comando1.JPG",
+      "name_display": "Comando1",
+      "filename": "Comando1.JPG",
+      "source_image": "Comando1.JPG",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "sistema-gestão-de-parque-estacionamento.": {
+      "asset_path": "img/mobiliario/Sistema gestão de parque estacionamento..jpg",
+      "name_display": "Sistema Gestão De Parque Estacionamento.",
+      "filename": "Sistema gestão de parque estacionamento..jpg",
+      "source_image": "Sistema gestão de parque estacionamento..jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "image-robus-nice": {
+      "asset_path": "img/automatismos/image-Robus-Nice.jpg",
+      "name_display": "Image Robus Nice",
+      "filename": "image-Robus-Nice.jpg",
+      "source_image": "image-Robus-Nice.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "f9a92c5f-c233-4d46-ae85-64644b6f9420-(1)": {
+      "asset_path": "img/automatismos/f9a92c5f-c233-4d46-ae85-64644b6f9420 (1).jpg",
+      "name_display": "F9a92c5f C233 4D46 Ae85 64644B6f9420 (1)",
+      "filename": "f9a92c5f-c233-4d46-ae85-64644b6f9420 (1).jpg",
+      "source_image": "f9a92c5f-c233-4d46-ae85-64644b6f9420 (1).jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "images": {
+      "asset_path": "img/automatismos/images.jpg",
+      "name_display": "Images",
+      "filename": "images.jpg",
+      "source_image": "images.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "18698114_1478689748848825_1520132623581306863_n": {
+      "asset_path": "img/portas/18698114_1478689748848825_1520132623581306863_n.jpg",
+      "name_display": "18698114 1478689748848825 1520132623581306863 N",
+      "filename": "18698114_1478689748848825_1520132623581306863_n.jpg",
+      "source_image": "18698114_1478689748848825_1520132623581306863_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "motorização-de-chão-oculta-para-portas-de-batente-em-vidro.-com-radar-deteção-no-tecto-falso.5": {
+      "asset_path": "img/portas/Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.5.jpg",
+      "name_display": "Motorização De Chão Oculta Para Portas De Batente Em Vidro. Com Radar Deteção No Tecto Falso.5",
+      "filename": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.5.jpg",
+      "source_image": "Motorização de chão oculta para portas de batente em vidro. Com radar deteção no tecto falso.5.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "dmflex-fenolicos-cacifos-galeria3": {
+      "asset_path": "img/fenolicos/dmflex-fenolicos-cacifos-galeria3.jpg",
+      "name_display": "Dmflex Fenolicos Cacifos Galeria3",
+      "filename": "dmflex-fenolicos-cacifos-galeria3.jpg",
+      "source_image": "dmflex-fenolicos-cacifos-galeria3.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "12472730_1110159022368568_5920890102991244536_n": {
+      "asset_path": "img/portas/12472730_1110159022368568_5920890102991244536_n.jpg",
+      "name_display": "12472730 1110159022368568 5920890102991244536 N",
+      "filename": "12472730_1110159022368568_5920890102991244536_n.jpg",
+      "source_image": "12472730_1110159022368568_5920890102991244536_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "pergola-p-150": {
+      "asset_path": "img/pergola/Pergola P-150.png",
+      "name_display": "Pergola P 150",
+      "filename": "Pergola P-150.png",
+      "source_image": "Pergola P-150.png",
+      "tier": "2d",
+      "category_display": "12 - Pérgola",
+      "category": "pergola"
+    },
+    "_dsc5613": {
+      "asset_path": "img/portas/_DSC5613.JPG",
+      "name_display": " DSC5613",
+      "filename": "_DSC5613.JPG",
+      "source_image": "_DSC5613.JPG",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "sistemas-de-carga6": {
+      "asset_path": "img/prot-solar/sistemas de carga6.jpg",
+      "name_display": "Sistemas De Carga6",
+      "filename": "sistemas de carga6.jpg",
+      "source_image": "sistemas de carga6.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "11069-1-kit-motor-porton-corredizo-recto-ppa-home-1-4hp-auto-300kg-500x500": {
+      "asset_path": "img/controlo-acesso/11069-1-kit-motor-porton-corredizo-recto-ppa-home-1-4hp-auto-300kg-500x500.jpg",
+      "name_display": "11069 1 Kit Motor Porton Corredizo Recto Ppa Home 1 4Hp Auto 300Kg 500X500",
+      "filename": "11069-1-kit-motor-porton-corredizo-recto-ppa-home-1-4hp-auto-300kg-500x500.jpg",
+      "source_image": "11069-1-kit-motor-porton-corredizo-recto-ppa-home-1-4hp-auto-300kg-500x500.jpg",
+      "tier": "2d",
+      "category_display": "08 - Controlo Acesso",
+      "category": "controlo-acesso"
+    },
+    "portas-fenólicas-sanitários": {
+      "asset_path": "img/fenolicos/Portas fenólicas sanitários.jpg",
+      "name_display": "Portas Fenólicas Sanitários",
+      "filename": "Portas fenólicas sanitários.jpg",
+      "source_image": "Portas fenólicas sanitários.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "sistemas-de-carga5": {
+      "asset_path": "img/prot-solar/sistemas de carga5.jpg",
+      "name_display": "Sistemas De Carga5",
+      "filename": "sistemas de carga5.jpg",
+      "source_image": "sistemas de carga5.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    },
+    "3be9f00b-248e-4a63-ab40-5df354efdd68": {
+      "asset_path": "img/automatismos/3be9f00b-248e-4a63-ab40-5df354efdd68.jpg",
+      "name_display": "3Be9f00b 248E 4A63 Ab40 5Df354efdd68",
+      "filename": "3be9f00b-248e-4a63-ab40-5df354efdd68.jpg",
+      "source_image": "3be9f00b-248e-4a63-ab40-5df354efdd68.jpg",
+      "tier": "2d",
+      "category_display": "07 - Automatismos",
+      "category": "automatismos"
+    },
+    "logo---alta-qualidade": {
+      "asset_path": "img/logos/Logo - alta Qualidade.jpg",
+      "name_display": "Logo   Alta Qualidade",
+      "filename": "Logo - alta Qualidade.jpg",
+      "source_image": "Logo - alta Qualidade.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "cafifos": {
+      "asset_path": "img/fenolicos/cafifos.jpg",
+      "name_display": "Cafifos",
+      "filename": "cafifos.jpg",
+      "source_image": "cafifos.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "cabines3": {
+      "asset_path": "img/fenolicos/Cabines3.jpg",
+      "name_display": "Cabines3",
+      "filename": "Cabines3.jpg",
+      "source_image": "Cabines3.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "img_20190305_121058": {
+      "asset_path": "img/tapetes/IMG_20190305_121058.jpg",
+      "name_display": "IMG 20190305 121058",
+      "filename": "IMG_20190305_121058.jpg",
+      "source_image": "IMG_20190305_121058.jpg",
+      "tier": "2d",
+      "category_display": "10 - Tapetes",
+      "category": "tapetes"
+    },
+    "12191074_1018139861570485_6670480027640314531_n": {
+      "asset_path": "img/portas/12191074_1018139861570485_6670480027640314531_n.jpg",
+      "name_display": "12191074 1018139861570485 6670480027640314531 N",
+      "filename": "12191074_1018139861570485_6670480027640314531_n.jpg",
+      "source_image": "12191074_1018139861570485_6670480027640314531_n.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "dezembro---porta-automatica": {
+      "asset_path": "img/portas/Dezembro - Porta Automatica.jpg",
+      "name_display": "Dezembro   Porta Automatica",
+      "filename": "Dezembro - Porta Automatica.jpg",
+      "source_image": "Dezembro - Porta Automatica.jpg",
+      "tier": "2d",
+      "category_display": "05 - Portas",
+      "category": "portas"
+    },
+    "img_20190305_130705": {
+      "asset_path": "img/mobiliario/IMG_20190305_130705.jpg",
+      "name_display": "IMG 20190305 130705",
+      "filename": "IMG_20190305_130705.jpg",
+      "source_image": "IMG_20190305_130705.jpg",
+      "tier": "2d",
+      "category_display": "11 - Mobiliário",
+      "category": "mobiliario"
+    },
+    "cafifos4": {
+      "asset_path": "img/fenolicos/cafifos4.jpg",
+      "name_display": "Cafifos4",
+      "filename": "cafifos4.jpg",
+      "source_image": "cafifos4.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "logotipo_image_mail": {
+      "asset_path": "img/logos/Logotipo_image_mail.jpg",
+      "name_display": "Logotipo Image Mail",
+      "filename": "Logotipo_image_mail.jpg",
+      "source_image": "Logotipo_image_mail.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "portas7": {
+      "asset_path": "img/fenolicos/portas7.jpg",
+      "name_display": "Portas7",
+      "filename": "portas7.jpg",
+      "source_image": "portas7.jpg",
+      "tier": "2d",
+      "category_display": "06 - Fenólicos",
+      "category": "fenolicos"
+    },
+    "logo---roda": {
+      "asset_path": "img/logos/logo - roda.jpg",
+      "name_display": "Logo   Roda",
+      "filename": "logo - roda.jpg",
+      "source_image": "logo - roda.jpg",
+      "tier": "2d",
+      "category_display": "00-logos",
+      "category": "logos"
+    },
+    "abrigos": {
+      "asset_path": "img/prot-solar/Abrigos.jpg",
+      "name_display": "Abrigos",
+      "filename": "Abrigos.jpg",
+      "source_image": "Abrigos.jpg",
+      "tier": "2d",
+      "category_display": "09 - Prot.Solar",
+      "category": "prot-solar"
+    }
+  },
+  "generated": "2026-05-26T16:17:57.1489180+01:00"
+}

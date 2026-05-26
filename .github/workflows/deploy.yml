@@ -1,0 +1,82 @@
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        run: |
+          find . -name "*.json" -not -path "./node_modules/*" | while read file; do
+            if ! jq empty "$file" 2>/dev/null; then
+              echo "Invalid JSON in $file"
+              exit 1
+            fi
+          done
+
+      - name: Validate HTML files
+        run: |
+          # Check for critical HTML tags
+          for file in *.html; do
+            if [ -f "$file" ]; then
+              if ! grep -q "<!DOCTYPE html>" "$file"; then
+                echo "Missing DOCTYPE in $file"
+                exit 1
+              fi
+              if ! grep -q "</html>" "$file"; then
+                echo "Missing closing html tag in $file"
+                exit 1
+              fi
+            fi
+          done
+
+      - name: Check for analytics scripts
+        run: |
+          # Verify Plausible is present in at least one HTML file
+          if ! grep -r "plausible.io" *.html 2>/dev/null | grep -q "script"; then
+            echo "Warning: Plausible analytics not found in HTML files"
+          fi
+          # Verify Sentry is present
+          if ! grep -r "sentry" *.html 2>/dev/null | grep -qi "browser"; then
+            echo "Warning: Sentry not found in HTML files"
+          fi
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install wrangler
+        run: npm install -g wrangler
+
+      - name: Deploy to Cloudflare Pages
+        run: |
+          wrangler pages deploy . \
+            --project-name=catalogo-3d \
+            --branch=main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+
+      - name: Deployment Summary
+        if: success()
+        run: |
+          echo "✅ Deployment successful!"
+          echo "Project: catalogo-3d"
+          echo "URL: https://catalogo-3d.pages.dev"
